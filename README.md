@@ -7,7 +7,7 @@ Web Scraping tool created in C# using Windows Forms. It uses an exploit to scrap
 
 
 If you can read Croatian and want to learn read more the seminar is available here:
-https://docs.google.com/document/d/1pKUUEWlhnIdX7-y1PpEeMwQB4uyPVnCU_g3Rnch40Ag/edit
+https://docs.google.com/document/d/1pKUUEWlhnIdX7-y1PpEeMwQB4uyPVnCU_g3Rnch40Ag/edit?usp=sharing
 
 As of since they have completely remade their backend system in an attempt to patch it. Their patch actually made it worse and now you can see all the personal information (literally all of it) of every student in Croatia.
 
