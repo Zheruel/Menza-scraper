@@ -3,7 +3,7 @@
 Web Scraping tool created in C# using Windows Forms. It uses an exploit to scrape https://www.srce.unizg.hr/ and get receipt data for restaurant visits of any student as long as you have their JMBAG number. This was my final project for the "Object Oriented Programming 2" class and it scored an A.
 
 
-![](webshopdemo.gif)
+![](menzademo.gif)
 
 
 As of since they have completely remade their backend system in an attempt to patch it. Their patch actually made it worse and now you can see all the personal information (literally all of it) of every student in Croatia.
