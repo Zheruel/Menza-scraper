@@ -6,6 +6,6 @@ Web Scraping tool created in C# using Windows Forms. It uses an exploit to scrap
 ![](slika2.JPG)
 ![](slika3.JPG)
 ![](slika4.JPG)
-![](slika5.JPG)
+![](slika 5.JPG)
 
 As of since they have completely remade their backend system in an attempt to patch it. It's still possible to update it should I ever need to as the exploit still works.
